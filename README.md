@@ -92,12 +92,12 @@ It also integrates with Kafka for asynchronous communication.
 ### Sample Results
 
 - API Testing Screenshots:
-  ![API Testing](./screenshots/api-testing-product.png)
+  ![API Testing](./screenshots/api-testing-product.PNG)
   ![API Testing](./screenshots/api-testing-order.png)
 
 - Email Notification:
-  ![Email Notification](./screenshots/email-notification-logs.png)
-  ![Email Notification](./screenshots/email-notification.png)
+  ![Email Notification](./screenshots/email-notification-logs.PNG)
+  ![Email Notification](./screenshots/email-notification.PNG)
 
 ---
 
